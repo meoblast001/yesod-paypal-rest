@@ -1,6 +1,6 @@
 name: yesod-paypal-rest
 version: 0.1.0
-synopsis: Yesod plugin to use PayPal with paypal-rest-client library.
+synopsis: Yesod plugin to use PayPal with the paypal-rest-client library.
 license: MIT
 license-file: LICENSE
 author: Braden Walters

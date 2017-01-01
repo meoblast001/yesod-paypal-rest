@@ -4,6 +4,7 @@ Integration of paypal-rest-client with Yesod.
 
 #### Build Status
 Master: [![Build Status](https://travis-ci.org/meoblast001/yesod-paypal-rest.svg?branch=master)](https://travis-ci.org/meoblast001/yesod-paypal-rest)
+Develop: [![Build Status](https://travis-ci.org/meoblast001/yesod-paypal-rest.svg?branch=develop)](https://travis-ci.org/meoblast001/yesod-paypal-rest)
 
 #### Warning Regarding Stability
 

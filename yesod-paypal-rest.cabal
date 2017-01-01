@@ -9,6 +9,7 @@ category: Yesod
 stability: experimental
 build-type: Simple
 cabal-version: >= 1.10
+Tested-With: GHC == 7.8.4, GHC == 7.10.2, GHC == 8.0.1
 
 library
   exposed-modules: Yesod.Payments.PayPal

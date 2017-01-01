@@ -2,6 +2,9 @@
 
 Integration of paypal-rest-client with Yesod.
 
+#### Build Status
+Master: [![Build Status](https://travis-ci.org/meoblast001/yesod-paypal-rest.svg?branch=master)](https://travis-ci.org/meoblast001/yesod-paypal-rest)
+
 #### Warning Regarding Stability
 
 The paypal-rest-client library is an experimental package which asks the user to
@@ -12,7 +15,8 @@ application.
 
 #### Example Usage
 
-The following code demonstrates how to use this package with an example site.
+The following code demonstrates how to use this package with an example site. It
+assumes a module named Config exists.
 
 ```haskell
 {-# LANGUAGE TemplateHaskell #-}

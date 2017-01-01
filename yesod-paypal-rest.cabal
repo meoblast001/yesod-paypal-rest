@@ -6,6 +6,7 @@ license-file: LICENSE
 author: Braden Walters
 maintainer: vc@braden-walters.info
 category: Yesod
+stability: experimental
 build-type: Simple
 cabal-version: >= 1.10
 
